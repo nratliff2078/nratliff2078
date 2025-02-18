@@ -20,19 +20,21 @@ I am a game developer with a strong foundation in programming, mathematics, and 
 
 ## 📂 Projects  
 
-### [Top-Down Multiplayer Shooter](https://github.com/YourUsername/Top-Down-Multiplayer-Shooter)  
+### [Top-Down Horror Survival - Nightmare Mayhem](https://www.byond.com/games/Magicbeast20/ASlasherGame)  
 **Engine:** BYOND (DreamMaker)  
-- Implemented character classes, skills, and attack mechanics  
-- Developed AI state machines for enemy behavior  
-- Designed multiplayer networking for real-time player interactions  
+- Nightmare Mayhem is an online 2D survival horror game where players take on the role of counselor's and must avoid a deadly monster.
+- Developed unique pixel art along with a smooth gameplay experience.
+- Designed an interactive environment for real-time player interactions.
 
 ---
 
-### [Combat RPG - Necromancer Class](https://github.com/YourUsername/Combat-RPG-Necromancer)  
-**Engine:** Unity  
-- Created a unique Necromancer class with a freeze enemy ability  
+### [2D Zombie Shooter - Quarantine 2](https://www.byond.com/games/Magicbeast20/Quarantine2)  
+**Engine:** BYOND (DreamMaker)  
+- In this title sequel to Quarantine, you and three other players must complete various tasks and slay hordes of undead to win! There are currently two game modes; one that involves players fighting from safehouse to safehouse, performing tasks to unlock the way forward, and another that involves defending a static location for as long as possible against increasingly difficult hordes of zombies.  
 - Designed combat mechanics and experience progression  
-- Implemented enemy AI and particle effects for immersive battles  
+- Implemented enemy AI and particle effects for immersive battles
+- Developed AI state machines for enemy behavior
+- Developed unique pixel art.
 
 ---
 
@@ -44,11 +46,11 @@ I am a game developer with a strong foundation in programming, mathematics, and 
 
 ---
 
-### [Unreal Engine Pawn Movement](https://github.com/YourUsername/Unreal-Pawn-Movement)  
+### [Unreal Horror - Out of Sight](https://github.com/YourUsername/Unreal-Pawn-Movement)  
 **Engine:** Unreal Engine 5.5  
-- Configured axis input mappings for horizontal and vertical movement  
-- Implemented Pawn control with W and D keys  
-- Designed top-down camera view at a 90° angle  
+- Designed from start to finish a small horror game using Unreal Blueprints. 
+- Implemented player movement/Enemy handling.
+- Designed first-person character to implement with movement.
 
 ---
 
@@ -61,7 +63,7 @@ I am a game developer with a strong foundation in programming, mathematics, and 
 
 ## 📧 Contact  
 Feel free to reach out to me!  
-- **Email:** [Your Email]  
+- **Email:** ratliffn2@mymail.shawnee.edu
 - **LinkedIn:** [Your LinkedIn Profile]  
 - **Website/Portfolio:** [Your Personal Website (if applicable)]  
 
@@ -73,7 +75,7 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 ---
 
 ## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nratliff2078&show_icons=true&theme=radical)  
 
 ---
 
