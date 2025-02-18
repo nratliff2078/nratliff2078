@@ -1,6 +1,6 @@
-# 🎮 [Your Full Name]'s Game Development Portfolio  
+# 🎮 Nick Ratliff's Game Development Portfolio  
 
-Welcome to my GitHub portfolio! I am currently pursuing a Bachelor's Degree in Digital Simulation & Game Programming at Shawnee State University, with minors in Mathematics and Game Design. I am passionate about creating immersive gaming experiences and have developed several projects across various platforms and engines.  
+Welcome to my GitHub portfolio! I am currently pursuing a Bachelor's Degree in Digital Simulation & Game Programming at Shawnee State University, with minors in Mathematics and Game Design. I started programming my first game at just 13 years old, and I haven't stopped since! I am passionate about creating immersive gaming experiences and have developed several projects across various platforms and engines.  
 
 ---
 
