@@ -38,7 +38,7 @@ I am a game developer with a strong foundation in programming, mathematics, and 
 
 ---
 
-### [3D Level Design - Tank Controls](https://github.com/YourUsername/3D-Tank-Controls)  
+### [3D Level Design - Tank Controls]
 **Engine:** Godot 4.3  
 - Developed a 3D level with tank controls for player rotation  
 - Designed collision and damage mechanics for enemy interactions  
@@ -46,7 +46,7 @@ I am a game developer with a strong foundation in programming, mathematics, and 
 
 ---
 
-### [Unreal Horror - Out of Sight](https://github.com/YourUsername/Unreal-Pawn-Movement)  
+### [Unreal Horror - Out of Sight]
 **Engine:** Unreal Engine 5.5  
 - Designed from start to finish a small horror game using Unreal Blueprints. 
 - Implemented player movement/Enemy handling.
@@ -55,7 +55,7 @@ I am a game developer with a strong foundation in programming, mathematics, and 
 ---
 
 ## 🎨 3D Modeling and Animation  
-- [3D Model - [Object Name]](https://github.com/YourUsername/3D-Model-Project)  
+- [3D Model - Deadpool  
   - Modeled in Maya 3D, textured with Adobe Substance 3D Painter  
   - Rigged and animated in Blender  
 
@@ -64,18 +64,11 @@ I am a game developer with a strong foundation in programming, mathematics, and 
 ## 📧 Contact  
 Feel free to reach out to me!  
 - **Email:** ratliffn2@mymail.shawnee.edu
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **Website/Portfolio:** [Your Personal Website (if applicable)]  
 
 ---
 
 ## 📜 License  
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
-
----
-
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nratliff2078&show_icons=true&theme=radical)  
 
 ---
 
