@@ -1,18 +1,15 @@
 # 🎮 Nick Ratliff's Game Development Portfolio  
-
-Welcome to my GitHub portfolio! I am currently pursuing a Bachelor's Degree in Digital Simulation & Game Programming at Shawnee State University, with minors in Mathematics and Game Design. I started programming my first game at just 13 years old, and I haven't stopped since! I am passionate about creating immersive gaming experiences and have developed several projects across various platforms and engines.  
-
+I am a game developer with a strong foundation in programming, mathematics, and game design principles. I have experience working with multiple game engines and tools, including Unreal Engine, Godot, and BYOND's DreamMaker. I have developed several small game engines using C++ and have a strong fundamental understanding of systems programming and game design principles. I love exploring innovative gameplay mechanics and the behind-the-scenes systems programming.
 ---
 
 ## 🚀 About Me  
-I am a game developer with a strong foundation in programming, mathematics, and game design principles. I have experience working with multiple game engines and tools, including Unreal Engine, Godot, and BYOND's DreamMaker. My projects range from top-down multiplayer shooters to combat RPGs, and I love exploring innovative gameplay mechanics and AI systems.  
+I started programming my first game at just 13 years old, and I haven't stopped since! I am passionate about creating immersive gaming experiences and have developed several projects across various platforms and engines.  
 
 ---
 
 ## 🛠️ Skills  
 - **Programming Languages:** C++, Python, BYOND (DreamMaker)  
-- **Game Engines:** Unity, Unreal Engine, Godot, BYOND  
-- **3D Modeling & Animation:** Maya 3D, Blender, Adobe Substance 3D Painter  
+- **Game Engines:** Unity, Unreal Engine, Godot, BYOND, Custom Engine 
 - **Game Design:** Character classes, AI movement and state machines, HUD systems, Particle effects  
 - **Other:** Memory management, Custom file systems, Mathematics for game physics  
 
@@ -48,7 +45,7 @@ I am a game developer with a strong foundation in programming, mathematics, and 
 
 ## 📧 Contact  
 Feel free to reach out to me!  
-- **Email:** ratliffn2@mymail.shawnee.edu
+- **Email:** nratliff2078@hotmail.com
 
 ---
 
