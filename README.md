@@ -10,7 +10,7 @@ I am a game developer with a strong foundation in programming, mathematics, and 
 ---
 
 ## 🛠️ Skills  
-- **Programming Languages:** C++, C#, Python, BYOND (DreamMaker)  
+- **Programming Languages:** C++, Python, BYOND (DreamMaker)  
 - **Game Engines:** Unity, Unreal Engine, Godot, BYOND  
 - **3D Modeling & Animation:** Maya 3D, Blender, Adobe Substance 3D Painter  
 - **Game Design:** Character classes, AI movement and state machines, HUD systems, Particle effects  
