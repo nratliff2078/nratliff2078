@@ -52,10 +52,5 @@ Feel free to reach out to me!
 
 ---
 
-## 📜 License  
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
-
----
-
 ## 🏆 Acknowledgements  
 Special thanks to Shawnee State University and my professors for their support and guidance throughout my journey in game development.  
