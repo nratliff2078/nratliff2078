@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio! I am currently pursuing a Bachelor's Degree in D
 ---
 
 ## 🚀 About Me  
-I am a game developer with a strong foundation in programming, mathematics, and game design principles. I have experience working with multiple game engines and tools, including Unity, Unreal Engine 5.5, Godot, and BYOND's DreamMaker. My projects range from top-down multiplayer shooters to combat RPGs, and I love exploring innovative gameplay mechanics and AI systems.  
+I am a game developer with a strong foundation in programming, mathematics, and game design principles. I have experience working with multiple game engines and tools, including Unreal Engine, Godot, and BYOND's DreamMaker. My projects range from top-down multiplayer shooters to combat RPGs, and I love exploring innovative gameplay mechanics and AI systems.  
 
 ---
 
