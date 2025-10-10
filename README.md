@@ -39,7 +39,7 @@ I am a game developer with a strong foundation in programming, mathematics, and 
 ---
 
 ### [Unreal Horror - Out of Sight]
-**Engine:** Unreal Engine 5.5  
+**Engine:** Unreal Engine 5.4  
 - Designed from start to finish a small horror game using Unreal Blueprints. 
 - Implemented player movement/Enemy handling.
 - Designed first-person character to implement with movement.
