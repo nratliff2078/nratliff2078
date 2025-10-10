@@ -16,6 +16,13 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 ---
 
 ## 📂 Projects  
+### [Unreal Horror - The Lost Souls of Appalachia]
+**Engine:** Unreal Engine 5.4  
+- Designed from start to finish a small horror game using Unreal Blueprints. 
+- Implemented player movement/Enemy handling.
+- Designed first-person character to implement with movement.
+
+---
 
 ### [Top-Down Horror Survival - Nightmare Mayhem](https://www.byond.com/games/Magicbeast20/ASlasherGame)  
 **Engine:** BYOND (DreamMaker)  
