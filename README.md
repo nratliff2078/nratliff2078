@@ -38,26 +38,11 @@ I am a game developer with a strong foundation in programming, mathematics, and 
 
 ---
 
-### [3D Level Design - Tank Controls]
-**Engine:** Godot 4.3  
-- Developed a 3D level with tank controls for player rotation  
-- Designed collision and damage mechanics for enemy interactions  
-- Utilized GLB models for wall and floor environments  
-
----
-
 ### [Unreal Horror - Out of Sight]
 **Engine:** Unreal Engine 5.5  
 - Designed from start to finish a small horror game using Unreal Blueprints. 
 - Implemented player movement/Enemy handling.
 - Designed first-person character to implement with movement.
-
----
-
-## 🎨 3D Modeling and Animation  
-- [3D Model - Deadpool  
-  - Modeled in Maya 3D, textured with Adobe Substance 3D Painter  
-  - Rigged and animated in Blender  
 
 ---
 
