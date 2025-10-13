@@ -32,6 +32,14 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 
 ---
 
+### [Top-Down 2D Zombie Shooter - Quarantine City](https://store.steampowered.com/app/3897610/Quarantine_City/)  
+**Engine:** Custom (C++)
+- Quarantine City is a simple 2D bullet-hell game where you can explore the city, find guns, and kill as many zombies as possible!
+- Designed custom C++ Engine/2D Rendering system.
+- Created a flow-field pathfinding system for zombie logic.
+  *Published by Ratliff Gaming LLC*
+
+---
 ### [Top-Down Horror Survival - Nightmare Mayhem](https://www.byond.com/games/Magicbeast20/ASlasherGame)  
 **Engine:** BYOND (DreamMaker)  
 - Nightmare Mayhem is an online 2D survival horror game where players take on the role of counselor's and must avoid a deadly monster.
