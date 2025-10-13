@@ -51,7 +51,7 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 
 ### [2D Online RPG - Mystical Realms](https://www.byond.com/games/Magicbeast20/AGWNN)  
 **Engine:** BYOND (DreamMaker)  
-- Mystical Realms is a simple combat-based RPG. Choose from several unique and individually crafted classes, embark on interactive quests to learn lore and unlock abilities, and join up with friends and battle large-scale bosses!
+- Mystical Realms is a combat-based RPG. Choose from several unique and individually crafted classes, embark on interactive quests to learn lore and unlock abilities, and join up with friends and battle large-scale bosses!
 - This is a long-term and on-going project.
 
 ---
