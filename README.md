@@ -57,6 +57,14 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 ---
 
 ### [2D Zombie Shooter - Quarantine 2](https://www.byond.com/games/Magicbeast20/Quarantine2)  
+<a href="https://www.byond.com/games/Magicbeast20/Quarantine2">
+  <img src="https://github.com/nratliff2078/nratliff2078/blob/images/LargeDisplayFINISHED.png" 
+       alt="Cover Image" 
+       style="cursor: pointer;"
+       width="600"
+       height="400"/>
+</a>
+
 **Engine:** BYOND (DreamMaker)  
 - In this title sequel to Quarantine, you and three other players must complete various tasks and slay hordes of undead to win! There are currently two game modes; one that involves players fighting from safehouse to safehouse, performing tasks to unlock the way forward, and another that involves defending a static location for as long as possible against increasingly difficult hordes of zombies.  
 - Designed combat mechanics and experience progression  
@@ -64,13 +72,6 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 - Developed AI state machines for enemy behavior
 - Developed unique pixel art.
 
----
-
-### [Unreal Horror - Out of Sight]
-**Engine:** Unreal Engine 5.4  
-- Designed from start to finish a small horror game using Unreal Blueprints. 
-- Implemented player movement/Enemy handling.
-- Designed first-person character to implement with movement.
 
 ---
 
