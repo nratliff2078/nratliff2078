@@ -10,13 +10,13 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 ## 🛠️ Skills  
 - **Programming Languages:** C++, Python, BYOND (DreamMaker), GDScript (Godot)  
 - **Game Engines:** Unity, Unreal Engine, Godot, BYOND, Custom Engines 
-- **Game Design:** Systems Architecture, Design Patterns, Sequencing and State Systems.
+- **Game Design:** Systems Architecture, Design Patterns, Sequencing and State Systems
 - **Other:** Memory management, Custom file systems, Mathematics for game physics  
 
 ---
 
 ## 📂 Projects  
-### [Unreal Horror - The Lost Souls of Appalachia]
+### [Unreal Horror - The Lost Souls of Appalachia](https://nratliff2078.itch.io/the-lost-souls-of-appalachia)
 **Engine:** Unreal Engine 5.4  
 - Designed from start to finish a small horror game using Unreal Blueprints. 
 - Implemented player movement/Enemy handling.
