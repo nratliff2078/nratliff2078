@@ -21,7 +21,7 @@ I started programming my first game at just 13 years old, and I haven't stopped 
   <img src="https://github.com/nratliff2078/nratliff2078/blob/images/latestCoverImage.png" 
        alt="Cover Image" 
        style="cursor: pointer;"
-       width="400"
+       width="600"
        height="600"/>
 </a>
 
