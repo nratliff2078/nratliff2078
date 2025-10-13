@@ -44,7 +44,7 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 **Engine:** Custom (C++)
 - Quarantine City is a simple 2D bullet-hell game where you can explore the city, find guns, and kill as many zombies as possible!
 - Designed custom C++ Engine/2D Rendering system.
-- Created a flow-field pathfinding system for zombie logic.
+- Created a flow-field pathfinding system for zombie logic.<br>
   *Published by Ratliff Gaming LLC*
 
 ---
