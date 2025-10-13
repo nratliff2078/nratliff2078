@@ -33,10 +33,19 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 ---
 
 ### [Top-Down 2D Zombie Shooter - Quarantine City](https://store.steampowered.com/app/3897610/Quarantine_City/)  
+<a href="https://store.steampowered.com/app/3897610/Quarantine_City/">
+  <img src="https://github.com/nratliff2078/nratliff2078/blob/images/library_header.png" 
+       alt="Cover Image" 
+       style="cursor: pointer;"
+       width="600"
+       height="400"/>
+</a>
+
 **Engine:** Custom (C++)
 - Quarantine City is a simple 2D bullet-hell game where you can explore the city, find guns, and kill as many zombies as possible!
 - Designed custom C++ Engine/2D Rendering system.
 - Created a flow-field pathfinding system for zombie logic.
+  
   *Published by Ratliff Gaming LLC*
 
 ---
