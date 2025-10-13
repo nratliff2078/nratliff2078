@@ -53,6 +53,11 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 - Nightmare Mayhem is an online 2D survival horror game where players take on the role of counselor's and must avoid a deadly monster.
 - Developed unique pixel art along with a smooth gameplay experience.
 - Designed an interactive environment for real-time player interactions.
+---
+### [2D Online RPG - Mystical Realms](https://www.byond.com/games/Magicbeast20/AGWNN)  
+**Engine:** BYOND (DreamMaker)  
+- Mystical Realms is a simple combat-based RPG. Choose from several unique and individually crafted classes, embark on interactive quests to learn lore and unlock abilities, and join up with friends and battle large-scale bosses!
+- This is a long-term and on-going project.
 
 ---
 
