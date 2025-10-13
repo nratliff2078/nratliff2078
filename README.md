@@ -20,7 +20,9 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 <a href="https://nratliff2078.itch.io/the-lost-souls-of-appalachia">
   <img src="https://github.com/nratliff2078/nratliff2078/blob/images/latestCoverImage.png" 
        alt="Cover Image" 
-       style="cursor: pointer;" />
+       style="cursor: pointer;"
+       width="300"
+       height="200"/>
 </a>
 
 **Engine:** Unreal Engine 5.4  
