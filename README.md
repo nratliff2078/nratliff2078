@@ -27,8 +27,8 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 
 **Engine:** Unreal Engine 5.4  
 - Designed from start to finish a small horror game using Unreal Blueprints. 
-- Implemented player movement/Enemy handling.
-- Designed first-person character to implement with movement.
+- Implemented all game mechanics from scratch, avoiding the use of any Unreal Starter Packs.
+- Designed first-person character model to implement with movement.
 
 ---
 
