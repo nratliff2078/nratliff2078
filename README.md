@@ -22,7 +22,7 @@ I started programming my first game at just 13 years old, and I haven't stopped 
        alt="Cover Image" 
        style="cursor: pointer;"
        width="400"
-       height="250"/>
+       height="300"/>
 </a>
 
 **Engine:** Unreal Engine 5.4  
