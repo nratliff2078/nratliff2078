@@ -32,7 +32,7 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 
 ---
 
-### [Top-Down 2D Zombie Shooter - Quarantine City](https://store.steampowered.com/app/3897610/Quarantine_City/)  
+### [Custom 2D-Engine - Quarantine City](https://store.steampowered.com/app/3897610/Quarantine_City/)  
 <a href="https://store.steampowered.com/app/3897610/Quarantine_City/">
   <img src="https://github.com/nratliff2078/nratliff2078/blob/images/library_header.png" 
        alt="Cover Image" 
@@ -48,12 +48,7 @@ I started programming my first game at just 13 years old, and I haven't stopped 
   *Published by Ratliff Gaming LLC*
 
 ---
-### [Top-Down Horror Survival - Nightmare Mayhem](https://www.byond.com/games/Magicbeast20/ASlasherGame)  
-**Engine:** BYOND (DreamMaker)  
-- Nightmare Mayhem is an online 2D survival horror game where players take on the role of counselor's and must avoid a deadly monster.
-- Developed unique pixel art along with a smooth gameplay experience.
-- Designed an interactive environment for real-time player interactions.
----
+
 ### [2D Online RPG - Mystical Realms](https://www.byond.com/games/Magicbeast20/AGWNN)  
 **Engine:** BYOND (DreamMaker)  
 - Mystical Realms is a simple combat-based RPG. Choose from several unique and individually crafted classes, embark on interactive quests to learn lore and unlock abilities, and join up with friends and battle large-scale bosses!
@@ -61,7 +56,7 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 
 ---
 
-### [2D Zombie Shooter - Quarantine 2](https://www.byond.com/games/Magicbeast20/Quarantine2)  
+### [2D Online Zombie Shooter - Quarantine 2](https://www.byond.com/games/Magicbeast20/Quarantine2)  
 <a href="https://www.byond.com/games/Magicbeast20/Quarantine2">
   <img src="https://github.com/nratliff2078/nratliff2078/blob/images/LargeDisplayFINISHED.png" 
        alt="Cover Image" 
