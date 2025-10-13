@@ -17,6 +17,14 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 
 ## 📂 Projects  
 ### [Unreal Horror - The Lost Souls of Appalachia](https://nratliff2078.itch.io/the-lost-souls-of-appalachia)
+<a href="https://nratliff2078.itch.io/the-lost-souls-of-appalachia">
+  <img src="https://github.com/nratliff2078/nratliff2078/blob/images/latestCoverImage.png" 
+       alt="Cover Image" 
+       style="cursor: pointer;"
+       width="600"
+       height="400"/>
+</a>
+
 **Engine:** Unreal Engine 5.4  
 - Designed from start to finish a small horror game using Unreal Blueprints. 
 - Implemented player movement/Enemy handling.
