@@ -21,7 +21,8 @@ I started programming my first game at just 13 years old, and I haven't stopped 
   <img src="https://github.com/nratliff2078/nratliff2078/blob/images/latestCoverImage.png" 
        alt="Cover Image" 
        style="cursor: pointer;" />
-</a><br>
+</a>
+
 **Engine:** Unreal Engine 5.4  
 - Designed from start to finish a small horror game using Unreal Blueprints. 
 - Implemented player movement/Enemy handling.
