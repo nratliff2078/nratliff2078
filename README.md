@@ -1,5 +1,5 @@
 # 🎮 Nick Ratliff's Game Development Portfolio  
-I am a game developer with a strong foundation in programming, mathematics, and game design principles. I have experience working with multiple game engines and tools, including Unreal Engine, Godot, and BYOND's DreamMaker. I have developed several small game engines using C++ and have a strong fundamental understanding of systems programming and game design principles. I love exploring innovative gameplay mechanics and the behind-the-scenes systems programming.
+I am a game developer with a strong foundation in programming, mathematics, and game design principles. I have experience working with multiple game engines and tools, including Unreal Engine, Godot, and BYOND's DreamMaker. I have developed several small game engines using C++ and have a strong fundamental understanding of systems programming and architectural designs. I love exploring innovative gameplay mechanics and the behind-the-scenes systems programming.
 ---
 
 ## 🚀 About Me  
