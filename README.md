@@ -26,8 +26,8 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 </a>
 
 **Engine:** Custom (C++)
-- Antiutopia is a ruthless competitive shooter set in a fractured near future, where victory comes only through precision, teamwork, and mastery of the wasteland.
-- Designed full-scale UDP-based Server/Client architecture with a reliance layer built on top.
+- Antiutopia is a ruthless competitive online arena shooter set in a fractured near future, where victory comes only through precision, teamwork, and mastery of the wasteland.
+- Designed full-scale UDP-based Server/Client architecture with a reliance layer built for Multiplayer support.
 - Created a Blender-to-C++ pipeline for simple 3D Rendering.
 - Feature's a full-scale Entity Component System; with capabilities to easily expand further.
 
