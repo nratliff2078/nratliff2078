@@ -8,7 +8,7 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 ---
 
 ## 🛠️ Skills  
-- **Programming Languages:** C++, Python, BYOND (DreamMaker), GDScript (Godot)  
+- **Programming Languages:** C++, Python, DreamMaker (BYOND), GDScript (Godot)  
 - **Game Engines:** Unity, Unreal Engine, Godot, BYOND, Custom Engines 
 - **Game Design:** Systems Architecture, Design Patterns, Sequencing and State Systems
 - **Other:** Memory management, Custom file systems, Mathematics for game physics  
