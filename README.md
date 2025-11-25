@@ -17,7 +17,7 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 
 ## 📂 Projects  
 ### [Custom 3D-Engine - Antiutopia]  
-<a href="https://store.steampowered.com/app/3897610/Quarantine_City/">
+<a href="https://nratliff2078.itch.io/antiutopia">
   <img src="https://github.com/nratliff2078/nratliff2078/blob/images/antiutopia_poster2.png" 
        alt="Cover Image" 
        style="cursor: pointer;"
