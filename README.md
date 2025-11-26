@@ -27,7 +27,7 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 
 **Engine:** Custom (C++)
 - Antiutopia is a ruthless competitive online arena shooter set in a fractured near future, where victory comes only through precision, teamwork, and mastery of the wasteland.
-- <a href="https://nratliff2078.itch.io/antiutopia/devlog/1124904/developing-clientserver-architecture>Designed full-scale UDP-based Server/Client architecture</a> with a reliance layer built for Multiplayer support.
+- <a href="https://nratliff2078.itch.io/antiutopia/devlog/1124904/developing-clientserver-architecture">Designed full-scale UDP-based Server/Client architecture</a> with a reliance layer built for Multiplayer support.
 - Created a Blender-to-C++ pipeline for simple 3D Rendering.
 - Feature's a full-scale Entity Component System; with capabilities to easily expand further.
   
