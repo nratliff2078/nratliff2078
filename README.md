@@ -25,7 +25,7 @@ I started programming my first game at just 13 years old, and I haven't stopped 
        height="400"/>
 </a>
 
-**Engine:** Custom (C++/OpenGl)
+**Engine:** Custom (C++/OpenGL)
 - Built a full UDP client/server multiplayer architecture with replication of actors, inputs, player states, game snapshots, and authoritative server simulation. Implemented full game-loop, collision, movement, and animation state handling. 
 - <a href="https://nratliff2078.itch.io/antiutopia/devlog/1124904/developing-clientserver-architecture">Designed full-scale UDP-based Server/Client architecture</a> with a reliance and security layer built for Multiplayer support.
 - Created a Blender-to-C++ pipeline for simple 3D Rendering.
