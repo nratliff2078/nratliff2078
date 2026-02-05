@@ -25,11 +25,11 @@ I started programming my first game at just 13 years old, and I haven't stopped 
        height="400"/>
 </a>
 
-**Engine:** Custom (C++)
+**Engine:** Custom (C++/OpenGl)
 - Built a full UDP client/server multiplayer architecture with replication of actors, inputs, player states, game snapshots, and authoritative server simulation. Implemented full game-loop, collision, movement, and animation state handling. 
 - <a href="https://nratliff2078.itch.io/antiutopia/devlog/1124904/developing-clientserver-architecture">Designed full-scale UDP-based Server/Client architecture</a> with a reliance and security layer built for Multiplayer support.
 - Created a Blender-to-C++ pipeline for simple 3D Rendering.
-- Feature's a full-scale Entity Component System; with capabilities to easily expand further.
+- Features full-scale Entity Component System; with capabilities to easily expand further.
   
 
 ---
@@ -58,7 +58,7 @@ I started programming my first game at just 13 years old, and I haven't stopped 
        height="400"/>
 </a>
 
-**Engine:** Custom (C++)
+**Engine:** Custom (C++/SDL3)
 - Designed custom C++ Engine/2D Rendering system.
 - Created a flow-field pathfinding system for zombie logic.<br>
   *Published by Ratliff Gaming LLC*
