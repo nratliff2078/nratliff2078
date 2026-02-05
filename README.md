@@ -26,8 +26,8 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 </a>
 
 **Engine:** Custom (C++)
-- Antiutopia is a ruthless competitive online arena shooter set in a fractured near future, where victory comes only through precision, teamwork, and mastery of the wasteland.
-- <a href="https://nratliff2078.itch.io/antiutopia/devlog/1124904/developing-clientserver-architecture">Designed full-scale UDP-based Server/Client architecture</a> with a reliance layer built for Multiplayer support.
+- Built a full UDP client/server multiplayer architecture with replication of actors, inputs, player states, game snapshots, and authoritative server simulation. Implemented full game-loop, collision, movement, and animation state handling. 
+- <a href="https://nratliff2078.itch.io/antiutopia/devlog/1124904/developing-clientserver-architecture">Designed full-scale UDP-based Server/Client architecture</a> with a reliance and security layer built for Multiplayer support.
 - Created a Blender-to-C++ pipeline for simple 3D Rendering.
 - Feature's a full-scale Entity Component System; with capabilities to easily expand further.
   
@@ -59,17 +59,9 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 </a>
 
 **Engine:** Custom (C++)
-- Quarantine City is a simple 2D bullet-hell game where you can explore the city, find guns, and kill as many zombies as possible!
 - Designed custom C++ Engine/2D Rendering system.
 - Created a flow-field pathfinding system for zombie logic.<br>
   *Published by Ratliff Gaming LLC*
-
----
-
-### [2D Online RPG - Mystical Realms](https://www.byond.com/games/Magicbeast20/AGWNN)  
-**Engine:** BYOND (DreamMaker)  
-- Mystical Realms is a combat-based RPG. Choose from several unique and individually crafted classes, embark on interactive quests to learn lore and unlock abilities, and join up with friends and battle large-scale bosses!
-- This is a long-term and on-going project.
 
 ---
 
@@ -83,10 +75,7 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 </a>
 
 **Engine:** BYOND (DreamMaker)  
-- In this title sequel to Quarantine, you and three other players must complete various tasks and slay hordes of undead to win! There are currently two game modes; one that involves players fighting from safehouse to safehouse, performing tasks to unlock the way forward, and another that involves defending a static location for as long as possible against increasingly difficult hordes of zombies.  
-- Designed combat mechanics and experience progression  
-- Implemented enemy AI and particle effects for immersive battles
-- Developed AI state machines for enemy behavior
+- Developed full sequel played by 200+ users. Implemented gameplay systems, storyline, combat, AI state machines, experience progression, and level flow using techniques learned from personal experience. Created using C++ style object-oriented programming engine called DreamMaker. 
 - Developed unique pixel art.
 
 
