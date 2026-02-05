@@ -3,7 +3,7 @@ I am a game developer with a strong foundation in programming, mathematics, and 
 ---
 
 ## 🚀 About Me  
-I started programming my first game at just 13 years old, and I haven't stopped since! I am passionate about creating immersive gaming experiences and have developed several projects across various platforms and engines.  
+I started programming my first game at just 13 years old, and I haven't stopped since! I am passionate about creating immersive gaming experiences and have developed several projects across various platforms and engines.  I have released various personal projects over the course of 10+ years.
 
 ---
 
