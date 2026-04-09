@@ -47,9 +47,11 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 - Implemented all game mechanics from scratch, avoiding the use of any Unreal Starter Packs.
 - Designed first-person character model to implement with movement.
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=Fn-SlYxg3Hs">
-</iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Fn-SlYxg3Hs">
+    <img src="https://www.youtube.com/watch?v=Fn-SlYxg3Hs" alt="IMAGE ALT TEXT HERE" width="500">
+  </a>
+</div>
 ---
 
 ### [Custom 2D-Engine - Quarantine City](https://store.steampowered.com/app/3897610/Quarantine_City/)  
