@@ -49,7 +49,9 @@ I started programming my first game at just 13 years old, and I haven't stopped 
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=Fn-SlYxg3Hs">
-    <img src="https://www.youtube.com/watch?v=Fn-SlYxg3Hs" alt="IMAGE ALT TEXT HERE" width="500">
+    <img src="https://img.youtube.com/vi/Fn-SlYxg3Hs/hqdefault.jpg" width="500">
+    <br/>
+    ▶ Watch Gameplay
   </a>
 </div>
 ---
